@@ -1,7 +1,7 @@
 # Easy Video & Image Semantic Segmentation
 
 <p align="center">
-<img src="./assets/teaser.png" width="880">
+<img src="https://github.com/user-attachments/assets/9cda61ff-f4b6-4ed2-abe6-45ac0a1d8302" width="880">
 </p>
 
 ## Introduction of this project
