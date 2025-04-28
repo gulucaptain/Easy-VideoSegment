@@ -50,7 +50,6 @@ bash inference.sh
 The results will be saved in <mask_save_pth>.
 
 ### Citations
-Please consider citing the related paper(s) in your publications if it helps your research.
 ```
 @article{cheng2023segment,
   title={Segment and Track Anything},
